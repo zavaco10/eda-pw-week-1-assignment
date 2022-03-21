@@ -1,6 +1,6 @@
-# Prime Tier 1 Week 1 Assignment
+# EDA Tier 1 Week 1 Assignment
 
-**Please watch all the videos for Week 1 on [the Tier 1 site](http://fullstack.primeacademy.io) before starting the assignment.** 
+**Please watch all the videos for Week 1 on [the Tier 1 site](https://fullstack.emergingacademy.org) before starting the assignment.** 
 
 These videos contain important information that will help you complete the assignment. Feel free to refer back to the videos whenever you need them!
 
@@ -16,15 +16,15 @@ You're going to:
 * test your work in the browser
 * use git to "save" your work
 * use the command line and your Mac's built-in Terminal
-* turn your assignment in through Prime's Assignment Portal
+* turn your assignment in through EDA's Assignment Portal
 
 ---
 
 ## Set-up: Fork and Clone This Repo
 
-Using your new git and GitHub skills, Fork this repo to your own GitHub account. Then Clone it to your own computer. You are going to end up cloning 80+ repos at Prime so try to stay organized!
+Using your new git and GitHub skills, Fork this repo to your own GitHub account. Then Clone it to your own computer. You are going to end up cloning 80+ repos at EDA so try to stay organized!
 
-We recommend making a "prime" folder inside your "home" directory, which will be named your username. Inside of this, perhaps a "tier1" folder in which you can keep all of your Tier 1 work.
+We recommend making a "eda" folder inside your "home" directory, which will be named your username. Inside of this, perhaps a "tier1" folder in which you can keep all of your Tier 1 work.
 
 Wherever you put it, use your Terminal to `cd` into your new cloned folder of this assignment.
 
@@ -98,7 +98,7 @@ Now that we have content in our HTML file, let's make it look nice with some sty
 
 - There are comments in the `style.css` file. You can write your styles below the comments.
 - You can also add more styles if you want, but make sure you include the styles in the directions, those are required!
-- Link your styles to your `index.html` file in the `head` of your HTML using the `link` tag. You did this for your Prime Resume Application, plus the videos from this week demonstrated how to do this.
+- Link your styles to your `index.html` file in the `head` of your HTML using the `link` tag. You did this for your EDA Resume Application, plus the videos from this week demonstrated how to do this.
   - [Here is a quick reference](https://www.w3schools.com/tags/tag_link.asp)
 
 *When you're done, make another "`commit`" with `git`.*
@@ -144,11 +144,11 @@ Now that your assignment is done, we'll use `git` to `push` your work to GitHub.
 
 You can find detailed instructions on how to do this in this week's video content.
 
-## 6) Submit Your Assignment in the Prime Portal
+## 6) Submit Your Assignment in the Homework Portal
 
-You will need to "submit" a link to your GitHub repo containing your work for this assignment. Prime will then use this link to find and check out your assignment! 
+You will need to "submit" a link to your GitHub repo containing your work for this assignment. EDA will then use this link to find and check out your assignment! 
 
-We won't know you're done until you [Submit it in the Portal](https://portal.primeacademy.io/).
+We won't know you're done until you [Submit it in the Portal](https://portal.emergingacademy.org).
 
 You can find detailed instructions on how to do this in this week's video content.
 
