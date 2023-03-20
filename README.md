@@ -1,6 +1,6 @@
-# EDA Tier 1 Week 1 Assignment
+# Unit 1: Git, HTML/CSS, Hello World
 
-**Please watch all the videos for Week 1 on [the Tier 1 site](https://fullstack.emergingacademy.org) before starting the assignment.** 
+**Please watch all the videos for Week 1 on [the Tier 1 site](https://fullstack.emergingacademy.org) before starting the assignment.**
 
 These videos contain important information that will help you complete the assignment. Feel free to refer back to the videos whenever you need them!
 
@@ -10,13 +10,13 @@ For the assignment this week, you will practice using the tools you saw in the v
 
 You're going to:
 
-* use git to fork/clone a repository (aka repo) from GitHub and get your work published back to your GitHub account
-* set up files and connect them
-* edit the HTML and CSS
-* test your work in the browser
-* use git to "save" your work
-* use the command line and your Mac's built-in Terminal
-* turn your assignment in through EDA's Assignment Portal
+- use git to fork/clone a repository (aka repo) from GitHub and get your work published back to your GitHub account
+- set up files and connect them
+- edit the HTML and CSS
+- test your work in the browser
+- use git to "save" your work
+- use the command line and your Mac's built-in Terminal
+- turn your assignment in through EDA's Assignment Portal
 
 ---
 
@@ -42,18 +42,18 @@ Do one of the following:
 
 ## Your Actual Assignment
 
-Inside of project you just opened in VSCode, is an *assignment* folder.
+Inside of project you just opened in VSCode, is an _assignment_ folder.
 
 Inside of this folder, we've provided you with a few files, some of those files are inside of other folders.
 
-**IMPORTANT:** Don't edit any files other than those inside of the *assignment* folder, and you should not need to move files around inside the folder.
+**IMPORTANT:** Don't edit any files other than those inside of the _assignment_ folder, and you should not need to move files around inside the folder.
 
 ### Files Provided
 
-- *assignment/index.html* (base functionality - required)
-- *assignment/helloWorld.js* (base functionality - required)
-- *assignment/style.css* (base functionality - required)
-- *assignment/checkpoints/terminal.txt* (base functionality - required)
+- _assignment/index.html_ (base functionality - required)
+- _assignment/helloWorld.js_ (base functionality - required)
+- _assignment/style.css_ (base functionality - required)
+- _assignment/checkpoints/terminal.txt_ (base functionality - required)
 
 ## 1) Edit the HTML
 
@@ -79,9 +79,9 @@ If you make more changes in VSCode, save your work, then Refresh the browser to 
 
 ## 1.1) Make a Commit
 
-*When you're done with your HTML, make a "`commit`" with `git`.* 
+_When you're done with your HTML, make a "`commit`" with `git`._
 
-> Definitly refer to the Git Practical video on this! You'll be making commits *all the time* so eventually you'll get this memorized. For now, take it one step at a time!
+> Definitly refer to the Git Practical video on this! You'll be making commits _all the time_ so eventually you'll get this memorized. For now, take it one step at a time!
 
 Here is the pattern. Be sure you are in the project folder!
 
@@ -91,19 +91,17 @@ Here is the pattern. Be sure you are in the project folder!
 4. in Terminal: `git commit -m "what you changed"`
 5. back to step 1!
 
-
 ## 2) Edit the CSS
 
 Now that we have content in our HTML file, let's make it look nice with some styling!
 
+- The CSS file is already linked to the HTML file using a `link` tag.
 - There are comments in the `style.css` file. You can write your styles below the comments.
 - You can also add more styles if you want, but make sure you include the styles in the directions, those are required!
-- Link your styles to your `index.html` file in the `head` of your HTML using the `link` tag. You did this for your EDA Resume Application, plus the videos from this week demonstrated how to do this.
-  - [Here is a quick reference](https://www.w3schools.com/tags/tag_link.asp)
 
-*When you're done, make another "`commit`" with `git`.*
+_When you're done, make another "`commit`" with `git`._
 
-Here is an example of what your assignment could look like: 
+Here is an example of what your assignment could look like:
 
 ![](images/mockup.png)
 
@@ -116,15 +114,15 @@ The videos this week introduced you to working with the command line through Ter
 In the `checkpoints` folder, you will find a `terminal.txt` file. This is just a plain old file of characters. No code, just text.
 
 1. Open the `terminal.txt` file in VSCode. VSCode can open many kinds of files!
-2. In the `terminal.txt`, answer all of the questions about the Terminal. All you need to do is type your answer below each question! 
+2. In the `terminal.txt`, answer all of the questions about the Terminal. All you need to do is type your answer below each question!
 
-> If you're unsure, feel free to do some research, or write that you're not sure. All we're asking for is you try your best! 
+> If you're unsure, feel free to do some research, or write that you're not sure. All we're asking for is you try your best!
 
-*When you're done, make another "`commit`" with `git`.*
+_When you're done, make another "`commit`" with `git`._
 
 ---
 
-## 4) Complete JavaScript "Hello World!" 
+## 4) Complete JavaScript "Hello World!"
 
 Our assignment also contains a `helloWorld.js` file. A "hello world" is a common first step in learning to code, and the first program many programmers write.
 
@@ -134,7 +132,7 @@ In the video for this week, we used a `console.log()` to get messages from our J
 2. Refer back to the video to cover how to source in and get "hello world" to log in the browser console for your assignment! More information on `console.log` can be found [here](https://www.w3schools.com/jsref/met_console_log.asp).
 3. Be sure to test your work by opening your browser console for this assignment. You should be able to see the text "hello world" or whatever you logged!
 
-*When you're done, make another "`commit`" with `git`.*
+_When you're done, make another "`commit`" with `git`._
 
 ---
 
@@ -146,7 +144,7 @@ You can find detailed instructions on how to do this in this week's video conten
 
 ## 6) Submit Your Assignment in the Homework Portal
 
-You will need to "submit" a link to your GitHub repo containing your work for this assignment. EDA will then use this link to find and check out your assignment! 
+You will need to "submit" a link to your GitHub repo containing your work for this assignment. EDA will then use this link to find and check out your assignment!
 
 We won't know you're done until you [Submit it in the Portal](https://portal.emergingacademy.org).
 
@@ -157,4 +155,3 @@ You can find detailed instructions on how to do this in this week's video conten
 ## 7) Answer the Slack Discussion Question
 
 Make sure that you answer this week's Slack discussion question (found each week in the left sidebar of the Tier 1 site) in your cohort's Slack channel!
-
