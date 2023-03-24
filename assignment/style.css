@@ -4,7 +4,7 @@ body {
 }
 /* Make the header and footer a different color from the background */
 h1 {
-    background-color: orange;
+    background-color: teal;
 }
 footer {
     background-color: teal
