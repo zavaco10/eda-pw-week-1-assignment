@@ -1,6 +1,6 @@
 /* Give your page a fun background color */
 body {
-    background-color:chartreuse
+    background-color:gray;
 }
 /* Make the header and footer a different color from the background */
 h1 {
@@ -15,7 +15,15 @@ h1 {
 
 }
 /* Make your p tag a different color and italic */
-
+p {
+    font-style: italic;
+    color: brown;
+}
 /* Put a border around your image */
-
+img {
+    border-style: double;
+}
 /* Change the font-family of your list */
+list {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
