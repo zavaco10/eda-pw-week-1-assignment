@@ -1,5 +1,7 @@
 /* Give your page a fun background color */
-
+h1 {
+    color: orange;
+}
 /* Make the header and footer a different color from the background */
 
 /* Align the h1 containing your name in the center of the header*/
